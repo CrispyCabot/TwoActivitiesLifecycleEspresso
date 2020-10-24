@@ -1,0 +1,4 @@
+#Sat Oct 24 17:32:15 EDT 2020
+base.0=C\:\\Users\\cjbas\\Desktop\\Android\\TwoActivitiesLifecycle2\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
